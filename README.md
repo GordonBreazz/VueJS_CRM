@@ -1,4 +1,10 @@
-# vue-youtube
+# VueJS_CRM
+
+## Simple example of CRM SPA on Vue.JS
+
+Built With Vue.JS 2, Materialize CSS and Google FireBase
+
+[Live Demo](http://vue-tutube.firebaseapp.com)
 
 ## Project setup
 ```
